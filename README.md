@@ -18,20 +18,19 @@ In directory narfy:
 
 ## ./install.sh
 
-```
-sudo apt install schism
-```
+Installs for Linux and Mac
 
 ## ./start.sh
 
-```
-/usr/bin/schismtracker
-```
+Starts Schism Tracker on Linux and Mac.
+
+On Mac, you can also click app icon "Schism Tracker".
+You may need to give permission to open "Schism Tracker" anyway at your settings.
 
 ## How to load song
 
-F9 or Fn-F9
+F9 or Fn-F9 or right-click menu load
 
 ## How to play song
 
-F5 or Fn-F5
+F5 or Fn-F5 or right click menu play
