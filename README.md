@@ -18,7 +18,7 @@ In directory narfy:
 
 ## ./install.sh
 
-Installs for Linux and Mac
+Installs Schism Tracker for Linux and Mac.
 
 ## ./start.sh
 
