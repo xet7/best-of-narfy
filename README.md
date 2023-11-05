@@ -9,6 +9,14 @@ In directory narfy:
 - Lascivious Latency
 - Seeping
 
+# Music: Magnus from ModArchive
+
+- Cosmic Heaven
+- Street Jungle
+- Only plays correctly at:
+  - BassoonTracker at Chromium at Linux
+  - Maybe FastTracker II
+
 ## Original idea from
 
 - https://files.scene.org/browse/music/artists/narfy
