@@ -1,0 +1,4 @@
+- Future Crew
+  - a94final.s3m: Deep In Her Eyes
+    - https://modarchive.org/index.php?request=view_by_moduleid&query=32355
+    - https://www.youtube.com/watch?v=fejzkPpoWIk
