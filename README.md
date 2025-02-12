@@ -17,6 +17,12 @@ In directory narfy:
   - BassoonTracker at Chromium at Linux
   - Maybe FastTracker II
 
+# Music: Hoffman
+
+- Plays correctly at:
+  - Amiga Protracker
+  - Linux Protracker: sudo apt install pt2-clone
+
 ## Original idea from
 
 - https://files.scene.org/browse/music/artists/narfy
